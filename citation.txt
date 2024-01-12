@@ -1,0 +1,9 @@
+@article{REPO083,
+    author = "Zhao, Yang and Zheng, Siming and Pei, Jihong and Yang, Xuan",
+    journal = "Information Sciences",
+    pages = "421--438",
+    publisher = "Elsevier",
+    title = "{Multiple Discriminant Preserving Support Subspace RBFNNs with Graph Similarity Learning}",
+    volume = "619",
+    year = "2023"
+}
